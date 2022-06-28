@@ -1,0 +1,14 @@
+_id: env_d8cbbd758bc24406ac76cdd929bb3b65
+type: Environment
+parentId: env_266cf82442196cb60355bab7de4f6909e1e035cf
+modified: 1656401299704
+created: 1656401017364
+name: Local Env
+data:
+  base_url: localhost:8000/nesot
+dataPropertyOrder:
+  "&":
+    - base_url
+color: null
+isPrivate: false
+metaSortKey: 1656401017364

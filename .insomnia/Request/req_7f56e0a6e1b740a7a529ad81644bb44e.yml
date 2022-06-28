@@ -1,0 +1,23 @@
+_id: req_7f56e0a6e1b740a7a529ad81644bb44e
+type: Request
+parentId: fld_7cf11be9a2b146439754d623e9d8ee80
+modified: 1656401404397
+created: 1656401331392
+url: "{{ _.base_url }}/menu/{% response 'body',
+  'req_9f5de0d2e74b489984271e894034a3cd', 'b64::JC5yZXN1bHRzWzBdLnNsdWc=::46b',
+  'never', 60 %}/"
+name: get menu-details
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1656401331392
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
