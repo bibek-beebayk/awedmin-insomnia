@@ -1,0 +1,23 @@
+_id: req_511f9815d3e14400999c04cfbea6e46f
+type: Request
+parentId: fld_42a615b3c6764bab96657b92b3f0aa3d
+modified: 1656417416916
+created: 1656417329844
+url: "{{ _.base_url }}/hero/{% response 'body',
+  'req_4ec25b50d720457cb05ff105147318e7', 'b64::JC5yZXN1bHRzWzBdLmlk::46b',
+  'never', 60 %}"
+name: get homepage_details
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1656415846773.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

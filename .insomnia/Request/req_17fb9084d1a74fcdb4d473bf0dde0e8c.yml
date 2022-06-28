@@ -1,19 +1,17 @@
-_id: req_06f40020278e4142a05546475dee7b97
+_id: req_17fb9084d1a74fcdb4d473bf0dde0e8c
 type: Request
 parentId: fld_3a8ae0589926418780c70a827f4f118a
-modified: 1656402297247
-created: 1656401730665
-url: "{{ _.base_url }}/event/{% response 'body',
-  'req_dbbcd8cd44084ef9a60f092677e6d63e', 'b64::JC5yZXN1bHRzWzBdLnNsdWc=::46b',
-  'never', 60 %}/"
-name: get event_details
+modified: 1656414759131
+created: 1656414747803
+url: "{{ _.base_url }}/event-schedule/"
+name: get event_schedule
 description: ""
 method: GET
 body: {}
 parameters: []
 headers: []
 authentication: {}
-metaSortKey: -1656401518384
+metaSortKey: -1656401670315
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

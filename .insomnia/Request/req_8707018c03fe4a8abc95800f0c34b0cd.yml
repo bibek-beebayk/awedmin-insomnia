@@ -1,0 +1,21 @@
+_id: req_8707018c03fe4a8abc95800f0c34b0cd
+type: Request
+parentId: fld_42a615b3c6764bab96657b92b3f0aa3d
+modified: 1656417989663
+created: 1656417450037
+url: "{{ _.base_url }}/current-hero/ "
+name: get current_homepage
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1656416565107.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

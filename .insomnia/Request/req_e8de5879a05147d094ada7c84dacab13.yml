@@ -1,0 +1,21 @@
+_id: req_e8de5879a05147d094ada7c84dacab13
+type: Request
+parentId: fld_871e5972844f456889e298e5da413e00
+modified: 1656414476462
+created: 1656414410105
+url: "{{ _.base_url }}/committee/"
+name: get committee-list
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1656414410105
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

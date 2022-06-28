@@ -1,0 +1,31 @@
+_id: req_28bc26dcbc3c43f3b805d456144e5078
+type: Request
+parentId: fld_42a615b3c6764bab96657b92b3f0aa3d
+modified: 1656418325146
+created: 1656418197497
+url: "{{ _.base_url }}/contact/"
+name: create contact message
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Bibek",
+    	"email": "bibek@gmail.com",
+    	"message": "Hello There"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_a41ed95d434f4ab5bc89d49dabb59fa8
+authentication: {}
+metaSortKey: -1656416924274.875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

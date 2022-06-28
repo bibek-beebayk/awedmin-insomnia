@@ -1,19 +1,17 @@
-_id: req_06f40020278e4142a05546475dee7b97
+_id: req_19894fe35b47469cb604e47f4ec08b63
 type: Request
 parentId: fld_3a8ae0589926418780c70a827f4f118a
-modified: 1656402297247
-created: 1656401730665
-url: "{{ _.base_url }}/event/{% response 'body',
-  'req_dbbcd8cd44084ef9a60f092677e6d63e', 'b64::JC5yZXN1bHRzWzBdLnNsdWc=::46b',
-  'never', 60 %}/"
-name: get event_details
+modified: 1656414691507
+created: 1656414685257
+url: "{{ _.base_url }}/event-faq/"
+name: get event_faq
 description: ""
 method: GET
 body: {}
 parameters: []
 headers: []
 authentication: {}
-metaSortKey: -1656401518384
+metaSortKey: -1656401682002
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

@@ -1,0 +1,21 @@
+_id: req_4ec25b50d720457cb05ff105147318e7
+type: Request
+parentId: fld_42a615b3c6764bab96657b92b3f0aa3d
+modified: 1656417306716
+created: 1656417283442
+url: "{{ _.base_url }}/hero/"
+name: get homapages_list
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1656417283442
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

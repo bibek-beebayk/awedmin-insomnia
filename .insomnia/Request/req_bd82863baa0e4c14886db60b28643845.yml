@@ -1,19 +1,17 @@
-_id: req_06f40020278e4142a05546475dee7b97
+_id: req_bd82863baa0e4c14886db60b28643845
 type: Request
 parentId: fld_3a8ae0589926418780c70a827f4f118a
-modified: 1656402297247
-created: 1656401730665
-url: "{{ _.base_url }}/event/{% response 'body',
-  'req_dbbcd8cd44084ef9a60f092677e6d63e', 'b64::JC5yZXN1bHRzWzBdLnNsdWc=::46b',
-  'never', 60 %}/"
-name: get event_details
+modified: 1656418094134
+created: 1656418086814
+url: "{{ _.base_url }}/attendees/"
+name: get attendees_list
 description: ""
 method: GET
 body: {}
 parameters: []
 headers: []
 authentication: {}
-metaSortKey: -1656401518384
+metaSortKey: -1656401693689
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

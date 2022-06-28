@@ -1,0 +1,33 @@
+_id: req_4ae098d3c6824975939dd6e5d2cab9c5
+type: Request
+parentId: fld_3a8ae0589926418780c70a827f4f118a
+modified: 1656405031175
+created: 1656402456597
+url: "{{ _.base_url }}/register/"
+name: register
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"full_name": "Bibek Gautam",
+    	"email": "bibek@gmail.com",
+    	"phone": "9845632145",
+    	"registration_type": "nesot",
+    	"payment_method": "Cash"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_2075e3a77eb54fb0a4d8ecfbff294360
+authentication: {}
+metaSortKey: -1656402456597
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

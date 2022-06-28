@@ -1,19 +1,17 @@
-_id: req_06f40020278e4142a05546475dee7b97
+_id: req_64ad41fd155e45c7a846c9d9cbca6bd5
 type: Request
 parentId: fld_3a8ae0589926418780c70a827f4f118a
-modified: 1656402297247
-created: 1656401730665
-url: "{{ _.base_url }}/event/{% response 'body',
-  'req_dbbcd8cd44084ef9a60f092677e6d63e', 'b64::JC5yZXN1bHRzWzBdLnNsdWc=::46b',
-  'never', 60 %}/"
-name: get event_details
+modified: 1656405543971
+created: 1656405441417
+url: "{{ _.base_url }}/speaker/"
+name: get speaker_list
 description: ""
 method: GET
 body: {}
 parameters: []
 headers: []
 authentication: {}
-metaSortKey: -1656401518384
+metaSortKey: -1656401611880
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
