@@ -1,0 +1,23 @@
+_id: req_8dfa373fecb64691979fed99d4c2d30f
+type: Request
+parentId: fld_4d8b265d776748259827fb09ec24dce2
+modified: 1656402164355
+created: 1656402130316
+url: "{{ _.base_url }}/paper/{% response 'body',
+  'req_7452d3398a1d42208eac472613514b1b', 'b64::JC5yZXN1bHRzWzBdLnNsdWc=::46b',
+  'never', 60 %}/"
+name: get paper-details
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1656401902282
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

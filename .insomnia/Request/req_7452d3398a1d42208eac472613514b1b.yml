@@ -1,0 +1,21 @@
+_id: req_7452d3398a1d42208eac472613514b1b
+type: Request
+parentId: fld_4d8b265d776748259827fb09ec24dce2
+modified: 1656402122114
+created: 1656402099188
+url: "{{ _.base_url }}/paper/"
+name: get paper-list
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1656402099188
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
