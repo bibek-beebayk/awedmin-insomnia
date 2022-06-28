@@ -1,0 +1,21 @@
+_id: req_dbbcd8cd44084ef9a60f092677e6d63e
+type: Request
+parentId: fld_3a8ae0589926418780c70a827f4f118a
+modified: 1656401723232
+created: 1656401705376
+url: "{{ _.base_url }}/event/"
+name: get event_list
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1656401705376
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
